@@ -1,0 +1,15 @@
+Exercice E-Commerce partie 3
+
+- Créer le fichier Book.class.php
+- Créer le fichier VideoGame.class.php
+- Dans les deux fichiers : Importer la classe produit
+- Dans les deux fichiers : Heriter de la classe produit
+    Nos deux fichiers auront les attributs et méthode de la classe parent Product
+
+Pour la classe book
+- Créer la classe
+- Ajoute les attributs : Auteur & format
+- Ajoute un méthode Affichage() 
+  - Elle retourne le titre, auteur et description (elle ne fait que de l'affichage)
+- A l'appel du constructeur -> mettre la valeur de la tva a 5.5
+- créer la méthode afficherToutesLesInformations qui ajoutera aussi les propriétés du livre
